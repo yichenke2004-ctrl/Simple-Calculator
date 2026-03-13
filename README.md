@@ -12,6 +12,6 @@ A small Python calculator created for the IT Management Tools resit exam.
 ## How to run
 python main.py
 
-## Example
-docs: add usage example
+## Development
+This project was developed using Git branches and Trello.
 
