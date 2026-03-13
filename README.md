@@ -10,7 +10,8 @@ A small Python calculator created for the IT Management Tools resit exam.
 - Division
 
 ## How to run
-
 python main.py
 
+## Example
+docs: add usage example
 
