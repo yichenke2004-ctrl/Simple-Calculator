@@ -1,3 +1,6 @@
+def add(a, b):
+    return a + b
+
 print("Simple Calculator")
 
 a = float(input("First number: "))
